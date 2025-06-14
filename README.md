@@ -5,9 +5,9 @@
  <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 - 🔭 I’m currently working on FRCR
 
-- 💬 Ask me about **sql, mern stack**
+- 💬 Ask me about **React, Node.js, Express, Javascript, Mongodb, ReactNative, Next.js**
 
-- 📫 How to reach me **a.siddeeqpkt@gmail.com**
+- 📫 How to reach me **siddeeq.dev@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
 
